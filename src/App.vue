@@ -9,6 +9,9 @@
   <div>
     bbb
   </div>
+  <div>
+    bbb
+  </div>
 </template>
 
 <script>
