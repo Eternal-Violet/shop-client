@@ -12,6 +12,9 @@
   <div>
     bbb
   </div>
+  <div>
+    ccc
+  </div>
 </template>
 
 <script>
